@@ -1,2 +1,12 @@
 venv/
 __pycache__/
+.venv/
+__pycache__/
+*.pyc
+dataset/
+processed/
+split/
+models/
+*.h5
+*.keras
+*.png
