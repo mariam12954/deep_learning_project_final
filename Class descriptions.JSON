@@ -1,0 +1,78 @@
+{
+    "gastrointestinal": {
+        "description": "Used to treat digestive system disorders such as acidity, ulcers, nausea, and diarrhea.",
+        "note": "Take as directed; some may require use before meals."
+    },
+    "cns_neurology_psychiatry": {
+        "description": "Used for conditions affecting the brain and nervous system such as depression, anxiety, epilepsy, and neurological disorders.",
+        "note": "May cause drowsiness; do not stop abruptly without medical advice."
+    },
+    "steroids_topicals": {
+        "description": "Topical medications used to reduce inflammation and treat skin conditions like eczema and rashes.",
+        "note": "Avoid prolonged use; apply only to affected areas."
+    },
+    "cardiovascular_blood": {
+        "description": "Used to manage heart conditions and blood-related disorders such as hypertension, clotting, and cholesterol.",
+        "note": "Regular monitoring is important; follow dosage strictly."
+    },
+    "respiratory_cough": {
+        "description": "Used to relieve cough, asthma, and other respiratory tract conditions.",
+        "note": "Some may cause drowsiness; avoid overdosing."
+    },
+    "hormones_reproductive": {
+        "description": "Used for hormonal regulation, fertility, and reproductive health conditions.",
+        "note": "Use under medical supervision; may affect hormonal balance."
+    },
+    "antibiotics_anti_infectives": {
+        "description": "Used to treat bacterial and microbial infections.",
+        "note": "Complete the full course; do not misuse or overuse."
+    },
+    "diabetes_endocrine": {
+        "description": "Used to control blood sugar levels and treat endocrine disorders.",
+        "note": "Monitor glucose regularly; follow diet recommendations."
+    },
+    "analgesics_pain_fever": {
+        "description": "Used to relieve pain and reduce fever.",
+        "note": "Do not exceed recommended dose; risk of liver damage if overused."
+    },
+    "eye_ear_nose_preparations": {
+        "description": "Used to treat infections and conditions related to eyes, ears, and nose.",
+        "note": "Use hygienically; avoid contamination of applicators."
+    },
+    "musculoskeletal": {
+        "description": "Used for muscle pain, joint disorders, and inflammation.",
+        "note": "May cause stomach irritation; take with food if needed."
+    },
+    "vitamins_supplements": {
+        "description": "Used to support general health and treat vitamin deficiencies.",
+        "note": "Not a substitute for a balanced diet."
+    },
+    "anaesthetics_speciality": {
+        "description": "Used to numb pain during medical or surgical procedures.",
+        "note": "Administered under professional supervision only."
+    },
+    "immunology": {
+        "description": "Used to support or regulate the immune system.",
+        "note": "May affect immune response; follow medical advice."
+    },
+    "anti_fungals": {
+        "description": "Used to treat fungal infections of the skin or body.",
+        "note": "Continue treatment even after symptoms improve."
+    },
+    "oncology": {
+        "description": "Used in the treatment of cancer and tumor-related conditions.",
+        "note": "Requires strict medical supervision; may have strong side effects."
+    },
+    "weight_metabolism": {
+        "description": "Used to manage weight and metabolic disorders.",
+        "note": "Combine with diet and exercise for best results."
+    },
+    "dermatology": {
+        "description": "Used to treat skin conditions such as acne, infections, and inflammation.",
+        "note": "Avoid excessive use; follow application instructions."
+    },
+    "general_medicine": {
+        "description": "General-purpose medications used for common health conditions.",
+        "note": "Use as directed; consult a doctor if symptoms persist."
+    }
+}

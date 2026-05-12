@@ -1,0 +1,37 @@
+=================================================================
+  Safe Pharmacy — Data Quality Report  [DRY RUN]
+=================================================================
+
+  Total images removed : 416
+  Mislabel candidates  : 245
+
+-----------------------------------------------------------------
+
+  analgesics_pain_fever  orig=126  removed=33  (blur=5 dark=3 dup=25)  remaining=93
+
+  cardiovascular_blood  orig=194  removed=29  (blur=4 dark=1 dup=24)  remaining=165
+
+  dermatology  orig=86  removed=11  (blur=1 dark=3 dup=7)  remaining=75
+
+  diabetes_endocrine  orig=127  removed=30  (blur=4 dark=1 dup=25)  remaining=97
+
+  eye_ear_nose_preparations  orig=124  removed=38  (blur=5 dark=2 dup=31)  remaining=86
+
+  hormones_oncology  orig=233  removed=52  (blur=11 dark=5 dup=36)  remaining=181
+
+  infections_immunity  orig=251  removed=33  (blur=5 dark=2 dup=26)  remaining=218
+
+  neuro_musculo  orig=295  removed=79  (blur=31 dark=0 dup=48)  remaining=216
+
+  respiratory_digestive  orig=408  removed=76  (blur=18 dark=6 dup=52)  remaining=332
+
+  steroids_topicals  orig=128  removed=12  (blur=4 dark=1 dup=7)  remaining=116
+
+  vitamins_supplements  orig=57  removed=23  (blur=0 dark=0 dup=23)  remaining=34
+
+
+  AUGMENTATION RECOMMENDATION
+-----------------------------------------------------------------
+  Set in split_and_preprocess_final.py:
+    TARGET_PER_CLASS = 180  (was 350)
+    MAX_COPIES       = 4  (was 12)

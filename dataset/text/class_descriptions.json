@@ -1,0 +1,46 @@
+{
+    "dermatology": {
+        "description": "Skin conditions — acne, eczema, etc.",
+        "note": "Follow application instructions."
+    },
+    "neuro_musculo": {
+        "description": "Neurology, psychiatry, musculoskeletal.",
+        "note": "Do not stop abruptly without advice."
+    },
+    "hormones_oncology": {
+        "description": "Hormones, oncology, anaesthetics.",
+        "note": "Strict medical supervision required."
+    },
+    "diabetes_endocrine": {
+        "description": "Blood sugar & endocrine disorders.",
+        "note": "Monitor glucose regularly."
+    },
+    "cardiovascular_blood": {
+        "description": "Heart & blood-pressure medicines.",
+        "note": "Follow dosage strictly."
+    },
+    "analgesics_pain_fever": {
+        "description": "Pain relief and fever reduction.",
+        "note": "Do not exceed recommended dose."
+    },
+    "respiratory_digestive": {
+        "description": "Respiratory & digestive treatments.",
+        "note": "Take digestive meds around meals."
+    },
+    "infections_immunity": {
+        "description": "Antibiotics, antifungals, immunology.",
+        "note": "Complete the full course."
+    },
+    "steroids_topicals": {
+        "description": "Topical anti-inflammatory steroids.",
+        "note": "Avoid prolonged use."
+    },
+    "eye_ear_nose_preparations": {
+        "description": "Eyes, ears, nose treatments.",
+        "note": "Avoid contamination of applicators."
+    },
+    "vitamins_supplements": {
+        "description": "Vitamins and mineral supplements.",
+        "note": "Not a substitute for balanced diet."
+    }
+}

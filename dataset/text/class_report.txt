@@ -1,0 +1,23 @@
+============================================================
+  Safe Pharmacy - Dataset Report  (split: 70/20/10 split)
+============================================================
+
+Final classes : 11
+Total images  : 2029
+Non-medicine  : 2734 excluded
+Removed (< 20): 0 classes
+
+----------------------------------------
+  FINAL CLASSES
+----------------------------------------
+  respiratory_digestive                     408 images
+  neuro_musculo                             295 images
+  infections_immunity                       251 images
+  hormones_oncology                         233 images
+  cardiovascular_blood                      194 images
+  steroids_topicals                         128 images
+  diabetes_endocrine                        127 images
+  analgesics_pain_fever                     126 images
+  eye_ear_nose_preparations                 124 images
+  dermatology                                86 images
+  vitamins_supplements                       57 images
