@@ -36,4 +36,4 @@ Future Improvements
 
 Technologies
 
-Python, Deep Learning, Computer Vision, Image Classification, Natural Language Processing, and Multimodal Learning(VGG16,CNN,MOBILENETV2,Resnet,DistilBERT).
+Python, Deep Learning, Computer Vision, Image Classification, Natural Language Processing, and Multimodal Learning.
